@@ -22,7 +22,7 @@ print ga.green+'''
         #|  This Version Supports Remote Code/Command Execution, XSS #
         #|  And SQL Injection.                                       #
 	#|  Thanks @lnxg33k, @dia2diab @Aelhemily, @okamalo          #
-	#|  More Details: http://www.sec-down.com/wordpress/?p=373   #
+	#|  More Details: git clone https://github.com/Mr.X-Lite1    #
         ##############################################################
         '''+ga.end
 
